@@ -72,6 +72,46 @@ nmap -oN nmap-scan.txt <LAB-IP>
 
 The output is written to `nmap-scan.txt` so you can compare findings and include evidence in a report.
 
+## 🖼️ Screenshots — Preview Directly in This README
+
+The images below are embedded directly from this repository so they appear on this page. Click an image to open the full-size version.
+
+### Discovering hosts in the authorized lab
+
+[![Host discovery results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/01-Host-Discovery/host-discovery.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/01-Host-Discovery/host-discovery.png)
+
+### Scanning ports on the authorized lab target
+
+[![Port scanning results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/02-Port-Scanning/port-scanning.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/02-Port-Scanning/port-scanning.png)
+
+### Full service and version detection output
+
+[![Service and version detection](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/03-Service-Version-Detection/service-version-detection-full.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/03-Service-Version-Detection/service-version-detection-full.png)
+
+### Selected service detection output
+
+[![Selected service results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/03-Service-Version-Detection/service-version-detection-selected.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/03-Service-Version-Detection/service-version-detection-selected.png)
+
+### Nmap OS detection output
+
+[![OS detection results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/04-OS-Detection/os-detection.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/04-OS-Detection/os-detection.png)
+
+### Example OS guess output
+
+[![OS guess results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/04-OS-Detection/os-detection-guess.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/04-OS-Detection/os-detection-guess.png)
+
+### Nmap Scripting Engine lab output
+
+[![NSE script scan results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/05-NSE-Script-Scanning/nse-script-scanning.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/05-NSE-Script-Scanning/nse-script-scanning.png)
+
+### Firewall and filtering observations
+
+[![Firewall detection results](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/06-Firewall-Detection/firewall-detection.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/06-Firewall-Detection/firewall-detection.png)
+
+### Final Nmap scan evidence
+
+[![Final scan report](https://raw.githubusercontent.com/SanathBansod/Nmap-Network-Scanning/main/07-Final-Scan-Report/nmap-final-scan.png)](https://github.com/SanathBansod/Nmap-Network-Scanning/blob/main/07-Final-Scan-Report/nmap-final-scan.png)
+
 ## 🧰 Useful Starter Commands
 
 | Command | Purpose |
